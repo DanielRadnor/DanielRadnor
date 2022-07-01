@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanielRadnor
+- 👀 I’m interested in data analysis and real estate
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any interesting projects
+- 📫 How to reach me linkedin.com/in/danielradnor
